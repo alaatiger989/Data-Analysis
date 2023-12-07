@@ -1,0 +1,4 @@
+https://www.geeksforgeeks.org/multi-plot-grid-in-seaborn/
+https://www.geeksforgeeks.org/plot-multiple-plots-in-matplotlib/
+https://dev.to/thalesbruno/subplotting-with-matplotlib-and-seaborn-5ei8
+https://www.geeksforgeeks.org/how-to-set-the-spacing-between-subplots-in-matplotlib-in-python/
